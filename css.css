@@ -1,0 +1,48 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: seagreen;
+}
+
+.img {
+	width: 300px;
+	height: 400px;
+	display: flex;
+	justify-content: center;
+	background: rgba(200, 246, 255);
+}
+
+h3 {
+	text-align: center;
+}
+
+.block {
+	width: 500px;
+	height: 600px;
+	display: flex;
+	justify-content: center;
+}
+
+hr {
+	width: 15000px;
+	color: whitesmoke;
+}
+
+.sus {
+	text-align: left;
+	justify-content: end;
+}
+
+p {
+	color: navajowhite;
+}
+
+.img2 {
+	width: 300px;
+	height: 400px;
+	display: flex;
+	justify-content: center;
+	background: rgba(200, 246, 255);
